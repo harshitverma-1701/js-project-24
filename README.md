@@ -1,2 +1,2 @@
 # js-project-24
-javascript project for 2024
+A javascript project repo for 2024
